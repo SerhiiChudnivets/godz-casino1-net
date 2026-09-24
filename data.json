@@ -22,7 +22,7 @@
       "gptPrompt": "",
       "heroTitle": "Godz Casino",
       "heroSubtitle": "Welcome Package",
-      "heroBadge": "Godz | Register Now",
+      "heroBadge": "Godz: Register Now",
       "ctaText": "Play Now",
       "tagline": "100% Up to CA$3,000 + 300 FS",
       "heroImage": "/uploads/329edd12578fec4384ba5d7b1bc2a08c.webp",
@@ -111,7 +111,7 @@
       "seo_description": "Godz Casino is online gaming platform for Canada. Enjoy our slots, live dealers, smooth mobile performance, and fast CAD payments directly on our official site.",
       "html_head": "<link rel=\"canonical\" href=\"https://godz-casino1.net/en-ca/\">\n<link rel=\"alternate\" href=\"https://godz-casino1.net/\" hreflang=\"en\">\n<link rel=\"alternate\" href=\"https://godz-casino1.net/en-ca/\" hreflang=\"en-CA\">\n<meta property=\"og:locale\" content=\"en_CA\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Godz Casino | 100% up to CA$750 + 100 FS\">\n<meta property=\"og:description\" content=\"Godz Casino is online gaming platform for Canada. Enjoy our slots, live dealers, smooth mobile performance, and fast CAD payments directly on our official site.\">\n<meta property=\"og:url\" content=\"godz-casino1.net\">\n<meta property=\"og:site_name\" content= \"Godz Casino\">\n<meta property=\"og:image\" content=\"https://godz-casino1.net//uploads/329edd12578fec4384ba5d7b1bc2a08c.webp\">",
       "faq_title": "FAQ",
-      "hero_badge": "Godz | Register Now",
+      "hero_badge": "Godz: Register Now",
       "cta_text": "Play Now",
       "content_alt": "godz register",
       "htmlHead_alt": "godz baner",
@@ -172,7 +172,7 @@
   "redirect_site": null,
   "hero_title": "Godz Casino",
   "hero_subtitle": "Welcome Package",
-  "hero_badge": "Godz | Register Now",
+  "hero_badge": "Godz: Register Now",
   "cta_text": "Play Now",
   "tagline": "100% Up to CA$3,000 + 300 FS",
   "features_list": null,
@@ -356,10 +356,10 @@
       "question": "Can I play in Canadian Dollars (CAD) at Godz Casino?"
     }
   ],
-  "_generated_at": "2026-09-22T15:36:59.351Z",
+  "_generated_at": "2026-09-24T07:30:29.780Z",
   "_version": "1.0.0",
   "html_head_alt": "godz baner",
   "content_alt": "godz register",
-  "_last_deploy": "2026-09-22T15:36:59.912Z",
-  "_deploy_trigger": "o4dnwe"
+  "_last_deploy": "2026-09-24T07:30:30.415Z",
+  "_deploy_trigger": "g1vbj"
 }
